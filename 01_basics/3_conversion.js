@@ -17,3 +17,14 @@ console.log(typeof boolean_justice);
  * string,number,1 => true
  * null,undeefined,0 => false
  */
+
+//operations 
+console.log(3+3)
+console.log(3-3)
+console.log(3%3)
+console.log(3*3)
+console.log(9/3)
+console.log(3**3) //raise to
+
+console.log("1" + 2 + 2); //not good for proggraming practices 
+console.log("s" + 2 + 2);
